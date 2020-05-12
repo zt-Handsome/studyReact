@@ -46,7 +46,6 @@ export default function () {
         let na={...a};
         na.b=e.target.value;
         setA(na)
-
     }
     let [name,setName] = useState('你好')
     function setChildren(name1) {
