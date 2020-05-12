@@ -51,7 +51,6 @@ export default function () {
     function setChildren(name1) {
         setName(name1);
         console.log(name1);
-
     }
     return <div >
         <div onClick={clickMe}>{a.a}</div>
